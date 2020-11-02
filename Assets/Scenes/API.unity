@@ -656,7 +656,7 @@ MonoBehaviour:
   m_Text: 'A little experimentation with Unity3D with a REST API back end connecting
     to a MySQL database.
 
-    There are wide range of applications with this.'
+    There is a wide range of applications with this setup.'
 --- !u!222 &626287532
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1696,13 +1696,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b887802f49aff3408f3935f4b2c9da2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myURL: http://abraham-kurnanto.com/API/public/scores
-  statusText: {fileID: 0}
-  dataText: {fileID: 0}
-  nn: {fileID: 0}
-  score: {fileID: 0}
-  sendButton: {fileID: 0}
-  receiveButton: {fileID: 0}
+  myURL: http://abraham-kurnanto.com/API/public
+  statusText: {fileID: 2103834883}
+  dataText: {fileID: 872336020}
+  nn: {fileID: 788960099}
+  score: {fileID: 890606009}
+  game: {fileID: 2020702035}
+  submitButton: {fileID: 7735914}
+  getButton: {fileID: 1856369171}
 --- !u!1 &1533794139
 GameObject:
   m_ObjectHideFlags: 0
