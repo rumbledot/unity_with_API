@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036009894443",
+    "firebase_url": "https://unitydb-5a31c.firebaseio.com",
+    "project_id": "unitydb-5a31c",
+    "storage_bucket": "unitydb-5a31c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036009894443:android:78d8c342c9afe7dc9d706e",
+        "android_client_info": {
+          "package_name": "com.rumbledot.Unity_with_API"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036009894443-b2dpbd6hv9fep65hb7bhijc0pei5pm3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3m46PiJ15Kl9EAuGjR_qhvGBadBRqKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036009894443-b2dpbd6hv9fep65hb7bhijc0pei5pm3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
